@@ -22,7 +22,7 @@
     "cors": "^2.8.5",
     "express": "4.16.3",
     "express-validator": "^6.6.0",
-    "jsonwebtoken": "8.2.1",
+    "jsonwebtoken": "9.0.0",
     "mongoose": "^5.9.22",
     "morgan": "1.9.0",
     "path": "^0.12.7",
